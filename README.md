@@ -4,7 +4,7 @@
 [![Hardware: Open Source](https://img.shields.io/badge/Hardware-Open%20Source-blue.svg)](#)
 [![Status: Prototyp (Solve For Tomorrow)](https://img.shields.io/badge/Status-Finał_SFT_2026-brightgreen.svg)](#)
 
-![MOST Hero Image](Grafiki/IMG_7794.jpg)
+![MOST Hero Image](Grafiki/IMG_7794.JPG)
 
 **MOST** to innowacyjna, autonomiczna przystawka z napędem elektrycznym, zaprojektowana z myślą o użytkownikach wózków o napędzie ręcznym oraz seniorach. Projekt łączy inżynierię mechaniczną, świadomy upcykling oraz technologie Internetu Rzeczy (IoT), aby skutecznie i tanio likwidować bariery architektoniczne.
 
